@@ -18,4 +18,4 @@ have up-to-date movie information and its review from the others.
 8. create new terminal and cd client and run npm run dev 
 9. Now, you can successfully run the application. 
 
-Hope you enjoy this application😁
+Hope you enjoy this application 😁
